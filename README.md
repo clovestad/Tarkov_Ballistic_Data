@@ -4,4 +4,4 @@ armor damage/flesh damage compartison chart
  effectiveness against various armour LVL  filtered by selectable calibers
 
 WIP ballistics interactive comparsion dashboard.
-[tableau](https://public.tableau.com/views/BallisticWIP/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[tableau](https://public.tableau.com/views/ballistics2/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
