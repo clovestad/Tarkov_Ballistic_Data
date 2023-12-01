@@ -1,4 +1,6 @@
 # Tarkov_Ballistic_Data
+Escape from Tarkov is  a hightly detailed game in which no detail has been left out, selecting the correct ammunition to bring into a game can be the deciding factor  between victory and defeat.  This chart  will not only describe and compare the statistics of any selected rounds, but tell you where they can be sourced via in game traders. Certain items can only be found in game and are unavaliable via trader purchase, usually rounds of a higher tier. Use the search bar to filter  and compare your favorite rounds and see how they stack up!
+
 armor damage/flesh damage compartison chart 
 preliminary charts
 ![image](https://github.com/clovestad/Tarkov_Ballistic_Data/assets/103072823/f1555642-0325-456a-9cf9-700e1251296b)
