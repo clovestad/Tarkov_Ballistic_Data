@@ -25,4 +25,4 @@ final dashboard design
  effectiveness against various armour LVL  filtered by selectable calibers
 
 WIP ballistics interactive comparsion dashboard.
-[tableau](https://public.tableau.com/views/ballistics2/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[EFT Ballistics](https://public.tableau.com/views/EFT_ballistics/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link)
